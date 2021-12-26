@@ -1,0 +1,8 @@
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
+  width: 404px;
+  margin: 20px auto;
+}

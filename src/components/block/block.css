@@ -1,0 +1,12 @@
+.block__img,.block {
+    width: 100px;
+    cursor: pointer;
+    height: 90px;
+    margin: 1px;
+}
+
+.block__img:hover {
+    /* outline: 1px solid rgb(0, 0, 0); */
+    /* filter: blur(1px); */
+    filter: brightness(1.1);
+}
